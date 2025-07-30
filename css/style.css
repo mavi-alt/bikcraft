@@ -14,6 +14,9 @@
 /* Cores */
 @import "./utilidades/cores.css";
 
+/* Animação */
+@import "./utilidades/animacao.css";
+
 /* Home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
