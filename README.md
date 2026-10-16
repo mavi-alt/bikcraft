@@ -4,8 +4,7 @@ Este repositório é um site estático de loja/marketing da Bikcraft, uma marca 
 
 ### Stack
 - Linguagens: HTML, CSS e JavaScript
-- Framework / runtime: site estático puro; sem framework ou backend
-- Bibliotecas notáveis: não há framework de aplicação; o comportamento principal vem de JavaScript customizado e de um plugin leve de animação (`js/plugins/simple-anime.js`)
+- JavaScript customizado e de um plugin leve de animação (`js/plugins/simple-anime.js`)
 
 ## Como está organizado
 
